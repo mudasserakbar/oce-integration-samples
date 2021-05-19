@@ -14,7 +14,7 @@ Download cafe-supremo-demo.zip from the latest [release](https://github.com/orac
 
 ### Import Application
 
-The cafe-supremo-demo.zip file must be imported into Oracle Visual Builder:
+The oce-vb-marketing-site-sample.zip file must be imported into Oracle Visual Builder:
 
 1. Sign in to Oracle Visual Builder.
 2. Import the template application by choosing Import > Application from file.
